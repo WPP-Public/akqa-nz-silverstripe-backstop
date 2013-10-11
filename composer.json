@@ -1,0 +1,24 @@
+{
+	"name": "heyday/silverstripe-backstop",
+	"description": "Helps log non-200 errors",
+	"authors": [
+		{
+			"name": "Cam Spiers",
+			"email": "camspiers@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"Heyday\\Backstop": "src/"
+		}
+	},
+	"require": {
+		"composer/installers": "~1.0",
+		"monolog/monolog": "~1.5.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~3.7.0",
+		"symfony/class-loader": "~2.3",
+		"silverstripe/framework": "~3.1.0"
+	}
+}
