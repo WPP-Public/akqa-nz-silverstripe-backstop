@@ -3,4 +3,4 @@ Injector:
     class: RequestProcessor
     properties:
       filters:
-        - '%Backstop'
+        - '%$Backstop'
