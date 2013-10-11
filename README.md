@@ -1,5 +1,7 @@
 # SilverStripe Backstop
 
+[![Build Status](https://travis-ci.org/heyday/silverstripe-backstop.png)](https://travis-ci.org/heyday/silverstripe-backstop)
+
 Logging for responses with status codes 400-500
 
 ## Installation (with composer)
