@@ -1,6 +1,6 @@
 # SilverStripe Backstop
 
-[![Build Status](https://travis-ci.org/heyday/silverstripe-backstop.png)](https://travis-ci.org/heyday/silverstripe-backstop)
+[![Build Status](https://travis-ci.org/heyday/silverstripe-backstop.png)](https://travis-ci.org/heyday/silverstripe-backstop) [![Code Coverage](https://scrutinizer-ci.com/g/heyday/silverstripe-backstop/badges/coverage.png?s=bf1e5e214accff878d0e81cc8763f03f6a3d60dd)](https://scrutinizer-ci.com/g/heyday/silverstripe-backstop/)
 
 Logging for responses with status codes 400-500
 
