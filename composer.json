@@ -1,6 +1,7 @@
 {
 	"name": "heyday/silverstripe-backstop",
 	"description": "Helps log non-200 errors",
+	"type": "silverstripe-module",
 	"authors": [
 		{
 			"name": "Cam Spiers",
