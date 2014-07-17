@@ -92,6 +92,7 @@ class Backstop implements RequestFilter
                         'response' => $response
                     )
                 );
+                break;
             }
         }
     }
